@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lucag/Documents/HomeStuff/c++/sdltest/MainWindow.cpp
+SDL2/SDL.h
+-
+include/MainWindow.hpp
+/home/lucag/Documents/HomeStuff/c++/sdltest/include/MainWindow.hpp
+iostream
+-
+include/PhysicsObject.hpp
+/home/lucag/Documents/HomeStuff/c++/sdltest/include/PhysicsObject.hpp
+SDL2/SDL_ttf.h
+-
+float.h
+-
+vector
+-
+
+/home/lucag/Documents/HomeStuff/c++/sdltest/include/MainWindow.hpp
+SDL2/SDL.h
+-
+PhysicsObject.hpp
+/home/lucag/Documents/HomeStuff/c++/sdltest/include/PhysicsObject.hpp
+string
+-
+vector
+-
+
+/home/lucag/Documents/HomeStuff/c++/sdltest/include/PhysicsObject.hpp
+SDL2/SDL.h
+-
+utility
+-
+

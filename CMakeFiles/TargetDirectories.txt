@@ -1,0 +1,3 @@
+/home/lucag/Documents/HomeStuff/c++/sdltest/CMakeFiles/rebuild_cache.dir
+/home/lucag/Documents/HomeStuff/c++/sdltest/CMakeFiles/edit_cache.dir
+/home/lucag/Documents/HomeStuff/c++/sdltest/CMakeFiles/SDL2Test.dir

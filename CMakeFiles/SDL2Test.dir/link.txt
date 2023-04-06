@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -std=c++11 -g  -lSDL2_ttf CMakeFiles/SDL2Test.dir/Main.cpp.o CMakeFiles/SDL2Test.dir/MainWindow.cpp.o CMakeFiles/SDL2Test.dir/PhysicsObject.cpp.o  -o SDL2Test  /usr/lib/x86_64-linux-gnu/libSDL2main.a /usr/lib/x86_64-linux-gnu/libSDL2.so -lpthread /usr/lib/x86_64-linux-gnu/libSDL2_ttf.so /usr/lib/x86_64-linux-gnu/libSDL2.so -lpthread 
